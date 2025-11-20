@@ -106,11 +106,11 @@
 
 8. Eu lerei um livro se e somente se terminar meu trabalho.
 
-    Conectivo: SE ENTÃO ( <-> )
+    Conectivo: SE E SOMENTE SE ( <-> )
     
     Proposições:
         p: Eu lerei um livro
-        q: Eu terminar meu trabalho
+        q: Terminar meu trabalho
     
     Expressão: p <-> q
 
@@ -124,7 +124,7 @@
     Conectivo: SE ENTÃO ( -> ) e OU ( V )
     
     Proposições:
-        p: Se estiver sol
+        p: Estiver sol
         q: Irei à praia
         r: Irei ao parque
     
@@ -137,11 +137,11 @@
 
 10. Eu farei um bolo se e somente se comprar os ingredientes.
     
-    Conectivo: SE ENTÃO ( <-> )
+    Conectivo: SE E SOMENTE SE ( <-> )
     
     Proposições:
         p: Eu farei um bolo
-        q: Eu comprar os ingredientes
+        q: Comprar os ingredientes
     
     Expressão: p <-> q
 
