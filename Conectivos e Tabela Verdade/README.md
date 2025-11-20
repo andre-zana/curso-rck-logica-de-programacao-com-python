@@ -3,6 +3,7 @@
     Conectivo: E ( ∧ )
     
     Proposições:
+    
     p: Eu estudei para a prova
     q: Fiz todos os exercícios
     
