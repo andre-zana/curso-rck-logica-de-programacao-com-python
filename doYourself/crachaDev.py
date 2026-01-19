@@ -1,0 +1,21 @@
+print('Crachá de Programador')
+print()
+
+print('Forneça alguns dados pessoais para criar seu crachá!')
+print()
+
+nome = input('Digite seu nome social: ')
+idade = input('Digite sua idade: ')
+linguagemFav = input('Digite sua linguagem de programação favorita: ')
+emoji = input('Insira um emoji que represente você: ')
+print()
+
+print('------------------------------------------------')
+print(' 🤓 Crachá do Dev')
+print()
+print(f'Nome: {nome}') #Poderia fazer assim também: print("Nome:", nome)
+print(f'Idade: {idade}')
+print(f'Linguagem favorita: {linguagemFav}')
+print(f'Emoji: {emoji}')
+print()
+print('------------------------------------------------')
