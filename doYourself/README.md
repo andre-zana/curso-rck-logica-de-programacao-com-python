@@ -1,0 +1,1 @@
+Todos os exercícios realizados, os enunciados encontram-se neste link: https://efficient-sloth-d85.notion.site/Pr-tica-Primeiros-programas-211395da5770803bbf3ddc0076f6a33e
